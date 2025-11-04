@@ -13,3 +13,4 @@ However, at first, I didn’t specify that these tasks should be related to Embe
 So later, I asked to generate them with this clarification. Here are the next tasks.
 - Collecting sensor data in a structure https://wokwi.com/projects/446699994976046081
 - Working with an array of structures (measurement history) https://wokwi.com/projects/446725734550580225
+- Working with peripherals through pointer-based structures https://wokwi.com/projects/446735121591450625
