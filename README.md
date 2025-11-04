@@ -11,3 +11,4 @@ Then I asked ChatGPT to generate a few tasks on this topic. Here is the link to 
 
 However, at first, I didn’t specify that these tasks should be related to Embedded development and working with the ESP32.
 So later, I asked to generate them with this clarification. Here are the next tasks.
+- Collecting sensor data in a structure https://wokwi.com/projects/446699994976046081
