@@ -16,3 +16,4 @@ So later, I asked to generate them with this clarification. Here are the next ta
 - Working with peripherals through pointer-based structures https://wokwi.com/projects/446735121591450625
 - Device manager https://wokwi.com/projects/446743967989024769
 - Sensor configuration in memory https://wokwi.com/projects/446795427154565121
+- Network module with function pointers https://wokwi.com/projects/446816537417251841
