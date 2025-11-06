@@ -18,3 +18,4 @@ So later, I asked to generate them with this clarification. Here are the next ta
 - Sensor configuration in memory https://wokwi.com/projects/446795427154565121
 - Network module with function pointers https://wokwi.com/projects/446816537417251841
 - Device power manager https://wokwi.com/projects/446820132915490817
+- Sensor network (dynamic linking of structures) https://wokwi.com/projects/446830265558276097
