@@ -20,3 +20,4 @@ So later, I asked to generate them with this clarification. Here are the next ta
 - Device power manager https://wokwi.com/projects/446820132915490817
 - Sensor network (dynamic linking of structures) https://wokwi.com/projects/446830265558276097
 - Saving configuration to memory https://wokwi.com/projects/446909909769544705
+- Command processing subsystem https://wokwi.com/projects/446918451480013825
