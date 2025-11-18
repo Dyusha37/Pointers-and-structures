@@ -9,8 +9,8 @@ Then I asked ChatGPT to generate a few tasks on this topic. Here is the link to 
 - List of employees with dynamic relationships (Linked list of structures) https://wokwi.com/projects/446643045939249153
 - Book and author (Nested structures) https://wokwi.com/projects/446651166959941633
 
-However, at first, I didn’t specify that these tasks should be related to Embedded development and working with the ESP32.
-So later, I asked to generate them with this clarification. Here are the next tasks.
+However, at first, I didn’t specify that these tasks should be ***RELATED TO EMBEDDED DEVELOPMENT AND WORKING WITH THE ESP32***.
+So later, I asked to generate them with this clarification. Here are the next tasks:
 - Collecting sensor data in a structure https://wokwi.com/projects/446699994976046081
 - Working with an array of structures (measurement history) https://wokwi.com/projects/446725734550580225
 - Working with peripherals through pointer-based structures https://wokwi.com/projects/446735121591450625
@@ -21,3 +21,6 @@ So later, I asked to generate them with this clarification. Here are the next ta
 - Sensor network (dynamic linking of structures) https://wokwi.com/projects/446830265558276097
 - Saving configuration to memory https://wokwi.com/projects/446909909769544705
 - Command processing subsystem https://wokwi.com/projects/446918451480013825
+
+Then I asked to add structures with ***BIT FIELDS*** to the tasks. Here are the next tasks:
+- Working with a sensor data frame https://wokwi.com/projects/447995704851392513
