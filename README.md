@@ -25,3 +25,4 @@ So later, I asked to generate them with this clarification. Here are the next ta
 Then I asked to add structures with ***BIT FIELDS*** to the tasks. Here are the next tasks:
 - Working with a sensor data frame https://wokwi.com/projects/447995704851392513
 - Power module status https://wokwi.com/projects/448016290306407425
+- Union for interpreting raw bytes https://wokwi.com/projects/448091140577418241
