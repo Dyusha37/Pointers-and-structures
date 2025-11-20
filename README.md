@@ -28,3 +28,4 @@ Then I asked to add structures with ***BIT FIELDS*** to the tasks. Here are the 
 - Union for interpreting raw bytes https://wokwi.com/projects/448091140577418241
 - Forming a CAN message https://wokwi.com/projects/448101253102620673
 - Peripheral configuration register https://wokwi.com/projects/448157491692908545
+- Device control packet https://wokwi.com/projects/448181842691296257
