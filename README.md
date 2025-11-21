@@ -29,3 +29,6 @@ Then I asked to add structures with ***BIT FIELDS*** to the tasks. Here are the 
 - Forming a CAN message https://wokwi.com/projects/448101253102620673
 - Peripheral configuration register https://wokwi.com/projects/448157491692908545
 - Device control packet https://wokwi.com/projects/448181842691296257
+
+In the end, I asked to generate a few OOP exercises:
+- A class that uses a structure to store data https://wokwi.com/projects/448191158368567297
