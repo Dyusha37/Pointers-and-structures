@@ -34,3 +34,4 @@ In the end, I asked to generate a few OOP exercises:
 - A class that uses a structure to store data https://wokwi.com/projects/448191158368567297
 - Dynamic Structure Manager https://wokwi.com/projects/448234881154531329
 - Structure + class = protocol object https://wokwi.com/projects/448273779804913665
+- Inheritance + parameter structure https://wokwi.com/projects/448283545541131265
