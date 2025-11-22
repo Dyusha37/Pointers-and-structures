@@ -36,3 +36,4 @@ In the end, I asked to generate a few OOP exercises:
 - Structure + class = protocol object https://wokwi.com/projects/448273779804913665
 - Inheritance + parameter structure https://wokwi.com/projects/448283545541131265
 - Pointers to a base class with an internal structure https://wokwi.com/projects/448354197866859521
+- An array of structures through a container class https://wokwi.com/projects/448360913460833281
