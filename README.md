@@ -35,3 +35,4 @@ In the end, I asked to generate a few OOP exercises:
 - Dynamic Structure Manager https://wokwi.com/projects/448234881154531329
 - Structure + class = protocol object https://wokwi.com/projects/448273779804913665
 - Inheritance + parameter structure https://wokwi.com/projects/448283545541131265
+- Pointers to a base class with an internal structure https://wokwi.com/projects/448354197866859521
