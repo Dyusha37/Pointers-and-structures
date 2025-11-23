@@ -37,3 +37,5 @@ In the end, I asked to generate a few OOP exercises:
 - Inheritance + parameter structure https://wokwi.com/projects/448283545541131265
 - Pointers to a base class with an internal structure https://wokwi.com/projects/448354197866859521
 - An array of structures through a container class https://wokwi.com/projects/448360913460833281
+- Union + class for interpreting bytes https://wokwi.com/projects/448454363218865153
+- Function pointers + classes and structures https://wokwi.com/projects/448457065448682497
